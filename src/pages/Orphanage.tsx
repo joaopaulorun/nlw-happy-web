@@ -72,7 +72,7 @@ export default function Orphanage() {
 
           <div className="orphanage-details-content">
             <h1>{orphanage.name}</h1>
-            <p>P{orphanage.about}</p>
+            <p>{orphanage.about}</p>
 
             <div className="map-container">
               <Map
