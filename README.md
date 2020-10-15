@@ -2,26 +2,22 @@
 	<img src=".github/logo.svg" width="200px" />
 </p>
 
-<h3 align="center">
-  Happy
-</h3>
-
 <p align="center">Leve felicidade para o mundo</p>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/joaopaulorun/readme-template">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/joaopaulorun/nlw-happy-web">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/joaopaulorun/readme-template">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/joaopaulorun/nlw-happy-web">
 
-  <a href="https://github.com/joaopaulorun/readme-template/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/joaopaulorun/readme-template">
+  <a href="https://github.com/joaopaulorun/nlw-happy-web/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/joaopaulorun/nlw-happy-web">
   </a>
 
   <a href="https://github.com/joaopaulorun/readme-template/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/joaopaulorun/readme-template">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/joaopaulorun/nlw-happy-web">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/joaopaulorun/readme-template">
+  <img alt="GitHub" src="https://img.shields.io/github/license/joaopaulorun/nlw-happy-web">
 </p>
 
 <p align="center">
@@ -36,7 +32,7 @@
 
 - <p style="color: red;">Brief explanation about the project</p>
 
-To see the **api**, click here: [nlw-happy-backend Rest API](https://github/joaopaulorun/nlw-happy-backend)</br>
+To see the **api**, click here: [nlw-happy-backend Rest API](https://github.com/joaopaulorun/nlw-happy-backend)</br>
 
 ## Layout project
 
