@@ -1,6 +1,6 @@
-<h1 align="center">
-	<img alt="Logo" src=".github/logo.svg" width="200px" />
-</h1>
+<p  align="center">
+	<img src=".github/logo.svg" width="200px" />
+</p>
 
 <h3 align="center">
   Happy
@@ -10,10 +10,6 @@
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/joaopaulorun/readme-template">
-
-  <a href="https://www.linkedin.com/in/joaopaulorun/">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-elias%20gabriel-gree">
-  </a>
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/joaopaulorun/readme-template">
 
@@ -67,7 +63,7 @@ Technologies that I used to develop this web client
 
 ### Requirements
 
-- Have this application's [API](https://github.com/joaopaulorun/gobarber-api) running
+- Have this application's [API](https://github.com/joaopaulorun/nlw-happy-backend) running
 
 **Clone the project and access the folder**
 
