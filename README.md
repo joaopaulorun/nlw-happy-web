@@ -2,7 +2,8 @@
 	<img src=".github/logo.svg" width="400px" />
 </p>
 
-<p align="center">Bring happiness to the world</p>
+**Happy** is an application that aims to connect people to orphanages in their cities, for visits and donations for children.
+The web app was developed during the week **NLW #3 of Rocketseat**, using NodeJS technologies in the backend to build the REST API, postgres database, ReactJS was used in the web, and to make the connection between users and orphanages easier, the React-Leaflet component was used to view maps in your city.
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/joaopaulu/nlw-happy-web">
@@ -22,7 +23,7 @@
 <p align="center">
   <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#-getting-started">Getting started</a>
 </p>
 
 ## 👨🏻‍💻 About the project
