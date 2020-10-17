@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/nlw-happy-web/static/css/main.50f03db7.chunk.css",
+    "main.js": "/nlw-happy-web/static/js/main.5fb5405d.chunk.js",
+    "main.js.map": "/nlw-happy-web/static/js/main.5fb5405d.chunk.js.map",
+    "runtime-main.js": "/nlw-happy-web/static/js/runtime-main.2834305b.js",
+    "runtime-main.js.map": "/nlw-happy-web/static/js/runtime-main.2834305b.js.map",
+    "static/css/2.a4567992.chunk.css": "/nlw-happy-web/static/css/2.a4567992.chunk.css",
+    "static/js/2.9e6589a5.chunk.js": "/nlw-happy-web/static/js/2.9e6589a5.chunk.js",
+    "static/js/2.9e6589a5.chunk.js.map": "/nlw-happy-web/static/js/2.9e6589a5.chunk.js.map",
+    "index.html": "/nlw-happy-web/index.html",
+    "precache-manifest.d3f00d741ecd646bca6a181123906046.js": "/nlw-happy-web/precache-manifest.d3f00d741ecd646bca6a181123906046.js",
+    "service-worker.js": "/nlw-happy-web/service-worker.js",
+    "static/css/2.a4567992.chunk.css.map": "/nlw-happy-web/static/css/2.a4567992.chunk.css.map",
+    "static/css/main.50f03db7.chunk.css.map": "/nlw-happy-web/static/css/main.50f03db7.chunk.css.map",
+    "static/js/2.9e6589a5.chunk.js.LICENSE.txt": "/nlw-happy-web/static/js/2.9e6589a5.chunk.js.LICENSE.txt",
+    "static/media/landing.css": "/nlw-happy-web/static/media/landing.91c8d1af.svg",
+    "static/media/logo.svg": "/nlw-happy-web/static/media/logo.1653c647.svg",
+    "static/media/map-marker.svg": "/nlw-happy-web/static/media/map-marker.658b8302.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2834305b.js",
+    "static/css/2.a4567992.chunk.css",
+    "static/js/2.9e6589a5.chunk.js",
+    "static/css/main.50f03db7.chunk.css",
+    "static/js/main.5fb5405d.chunk.js"
+  ]
+}
